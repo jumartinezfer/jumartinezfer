@@ -10,21 +10,21 @@
 
 <h2 align="center">featured projects <h2/>
 
-
+<p>
 <h2 align="left">Connect with me:</h2>
-<p align="left">
+ align="left">
   
    <a href="www.linkedin.com/in/juan-antonio-martínez-fernández-486495367" target="_blank" rel="noreferrer">LinkedIn</a>
-   
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
-<p align="left">
 
+<p align="left">
+<h2 align="left">Languages and Tools:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,css,discord,postgres,express,figma,firebase,github,html&perline=9" />
   </a>
+</p>
 </p>
 
 <p align="center">
