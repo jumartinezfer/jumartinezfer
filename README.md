@@ -3,7 +3,7 @@
 <p align="center">
 <img src="banner.jpg" alt="Banner" width="800"/>
 </p>
-<br/>
+
 
 <h3 align="center">Vivo en modo beta: siempre explorando lo nuevo en tecnología.</h3>
 
@@ -21,9 +21,11 @@
 <p align="left">
   
    <a href="www.linkedin.com/in/juan-antonio-martínez-fernández-486495367" target="_blank" rel="noreferrer">LinkedIn</a>
+   
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<div align="center">
 <p align="left">
 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -93,7 +95,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
-
+</div>
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jumartinezfer&show_icons=true&locale=en&layout=compact" alt="jumartinezfer" />
 </p>
