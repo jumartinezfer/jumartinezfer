@@ -10,9 +10,6 @@
 
 <h2 align="center">featured projects <h2/>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jumartinezfer&label=Profile%20views&color=0e75b6&style=flat" alt="jumartinezfer" />
-</p>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
@@ -40,5 +37,9 @@
 <br/>
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jumartinezfer&show_icons=true&locale=en&layout=compact" alt="jumartinezfer" />
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jumartinezfer&label=Profile%20views&color=0e75b6&style=flat" alt="jumartinezfer" />
 </p>
 
