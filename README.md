@@ -1,9 +1,7 @@
 <h1 align="center">¡Hola! 👋, soy Juan Martinez</h1>
 
-<!-- Banner: agrega aquí la imagen que quieras mostrar -->
-<!-- Ejemplo: -->
 <p align="center">
-<img src="../banner.jpg" alt="Banner" width="800"/>
+<img src="banner.jpg" alt="Banner" width="800"/>
 </p>
 <br/>
 
@@ -21,15 +19,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- Agrega tus enlaces sociales formateados -->
-  <!-- Ejemplo: -->
-  <!-- <a href="https://linkedin.com/in/tu-usuario" target="_blank" rel="noreferrer">LinkedIn</a> · -->
-  <!-- <a href="https://twitter.com/tu-usuario" target="_blank" rel="noreferrer">Twitter</a> -->
+  
+   <a href="www.linkedin.com/in/juan-antonio-martínez-fernández-486495367" target="_blank" rel="noreferrer">LinkedIn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- Tecnologías organizadas en cuadrícula (5 por fila como ejemplo) -->
+
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
