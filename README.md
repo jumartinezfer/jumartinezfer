@@ -10,9 +10,14 @@
 
 <h3 align="center">featured projects <h3/>
 
-<a href="https://github.com/jumartinezfer/E-commerce" target="_blank" rel="noreferrer">E-commerce</a><br/>
-<p>
-   This is the backend of an E-commerce using technologies such as Node JS, JavaScript, Typescript, TypeORM, Express js, etc
+<h4><a href="https://github.com/jumartinezfer/E-commerce" target="_blank" rel="noreferrer">E-commerce</a></h4><br/>
+<p align="justify">
+   This is the backend of an E-commerce using technologies such as Node JS, JavaScript, Typescript, TypeORM, Express js, Nest js, etc
+</p>
+
+<h4><a href="https://github.com/jumartinezfer/appointmentsApp" target="_blank" rel="noreferrer">Appointments App</a></h4><br/>
+<p align="justify">
+   This is the backend and the FrontEnd of an Appointments app using technologies such as Node JS, JavaScript, Typescript, TypeORM, Express js, Nest js, React js, CSS3, Bootstrap, etc
 </p>
 
 
