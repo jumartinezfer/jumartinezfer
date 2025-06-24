@@ -3,7 +3,7 @@
 <!-- Banner: agrega aquí la imagen que quieras mostrar -->
 <!-- Ejemplo: -->
 <p align="center">
-<img src="./banner.jpg" alt="Banner" width="800"/>
+<img src="../banner.jpg" alt="Banner" width="800"/>
 </p>
 <br/>
 
