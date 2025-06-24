@@ -8,7 +8,7 @@
 
 <h3 align="justify">A full-stack developer with a strong motivation to learn and grow in the world of web development. I specialize in the use of technologies such as JavaScript, TypeScript, Node.js, NestJS, Express, and PostgreSQL, applying good development practices, RESTful API structures, and version control with Git, including HTML, CSS, and modern frameworks like React. </h3>
 
-<h3 align="center">featured projects <h3/>
+<h3 align="center">Featured Projects <h3/>
 
 <h4><a href="https://github.com/jumartinezfer/E-commerce" target="_blank" rel="noreferrer">E-commerce</a></h4>
 <p align="justify">
@@ -33,12 +33,6 @@
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=js,linux,md,mongodb,mysql,nextjs,nodejs,postman,react,tailwind,ts,vscode&perline=12" />
-</p>
-
-
-<br/>
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jumartinezfer&show_icons=true&locale=en&layout=compact" alt="jumartinezfer" />
 </p>
 
 <br/>
