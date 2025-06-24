@@ -1,11 +1,12 @@
-<h1 align="center">Hi! 👋, I´m Juan Martinez</h1>
-
 <p align="center">
 <img src="banner.jpg" alt="Banner" width="800"/>
 </p>
 
+<h1 align="center">Hi! 👋, I´m Juan Martinez</h1>
 
 <h3 align="center">Living in beta mode: always exploring what’s new in technology.</h3>
+
+<h3 align="justify">A full-stack developer with a strong motivation to learn and grow in the world of web development. I specialize in the use of technologies such as JavaScript, TypeScript, Node.js, NestJS, Express, and PostgreSQL, applying good development practices, RESTful API structures, and version control with Git. </h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jumartinezfer&label=Profile%20views&color=0e75b6&style=flat" alt="jumartinezfer" />
