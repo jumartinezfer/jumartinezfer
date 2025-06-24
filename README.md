@@ -10,13 +10,13 @@
 
 <h3 align="center">featured projects <h3/>
 
-<a href="[https://github.com/jumartinezfer/E-commerce" target="_blank" rel="noreferrer">E-commerce</a><br/>
+<a href="https://github.com/jumartinezfer/E-commerce" target="_blank" rel="noreferrer">E-commerce</a><br/>
 <p>
    This is the backend of an E-commerce using technologies such as Node JS, JavaScript, Typescript, TypeORM, Express js, etc
 </p>
 
 
-<h3 align="left">Connect with me: </h3><br/>
+<h3 align="left">Connect with me: </h3>
    <a href="www.linkedin.com/in/juan-antonio-martínez-fernández-486495367" target="_blank" rel="noreferrer">LinkedIn</a><br/>
    <a href="mailto:jumartinezfer95@gmail.com">jumartinezfer95@gmail.com</a>
 
