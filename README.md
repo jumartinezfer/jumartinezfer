@@ -4,22 +4,26 @@
 
 <h1 align="center">Hi! 👋, I´m Juan Martinez</h1>
 
-<h3 align="center">Living in beta mode: always exploring what’s new in technology.</h3>
+<h2 align="center">Living in beta mode: always exploring what’s new in technology.</h2>
 
-<h3 align="justify">A full-stack developer with a strong motivation to learn and grow in the world of web development. I specialize in the use of technologies such as JavaScript, TypeScript, Node.js, NestJS, Express, and PostgreSQL, applying good development practices, RESTful API structures, and version control with Git. </h3>
+<h3 align="justify">A full-stack developer with a strong motivation to learn and grow in the world of web development. I specialize in the use of technologies such as JavaScript, TypeScript, Node.js, NestJS, Express, and PostgreSQL, applying good development practices, RESTful API structures, and version control with Git, including HTML, CSS, and modern frameworks like React. </h3>
+
+<h2 align="center">featured projects <h2/>
+
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jumartinezfer&label=Profile%20views&color=0e75b6&style=flat" alt="jumartinezfer" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
   
    <a href="www.linkedin.com/in/juan-antonio-martínez-fernández-486495367" target="_blank" rel="noreferrer">LinkedIn</a>
    
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <div align="center">
 <p align="left">
 
@@ -43,6 +47,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" style="margin: 20px;"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50" style="margin: 20px;"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50" style="margin: 20px;"/>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,discord,postgres,express,figma,firebase,github,html,js,linux,md,mongodb,mysql,nextjs,nodejs,postman,react,tailwind,ts,vscode,kubernetes&perline=14" />
+  </a>
 </p>
 
 <br/>
