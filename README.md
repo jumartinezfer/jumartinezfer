@@ -6,17 +6,17 @@
 
 <h2 align="center">Living in beta mode: always exploring what’s new in technology.</h2>
 
-<div>
 <h3 align="justify">A full-stack developer with a strong motivation to learn and grow in the world of web development. I specialize in the use of technologies such as JavaScript, TypeScript, Node.js, NestJS, Express, and PostgreSQL, applying good development practices, RESTful API structures, and version control with Git, including HTML, CSS, and modern frameworks like React. </h3>
-</div>
-<h2 align="center">featured projects <h2/>
+
+<p align="center">featured projects <p/>
 
 
-<p align="left">Connect with me:</p>
+<p align="left">Connect with me:
    <a href="www.linkedin.com/in/juan-antonio-martínez-fernández-486495367" target="_blank" rel="noreferrer">LinkedIn</a>
+   <a href="mailto:jumartinezfer95@gmail.com">jumartinezfer95@gmail.com</a>
+</p>
 
-
-<h2 align="center">Languages and Tools:</h2>
+<p align="center">Languages and Tools:</p>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=git,css,discord,postgres,express,figma,firebase,github,html&perline=9" />
 </p>
