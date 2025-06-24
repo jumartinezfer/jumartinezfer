@@ -7,17 +7,21 @@
 <h2 align="center">Living in beta mode: always exploring what’s new in technology.</h2>
 
 <h3 align="justify">A full-stack developer with a strong motivation to learn and grow in the world of web development. I specialize in the use of technologies such as JavaScript, TypeScript, Node.js, NestJS, Express, and PostgreSQL, applying good development practices, RESTful API structures, and version control with Git, including HTML, CSS, and modern frameworks like React. </h3>
-<br/>
 
 <h3 align="center">featured projects <h3/>
 
+<a href="[https://github.com/jumartinezfer/E-commerce" target="_blank" rel="noreferrer">E-commerce</a><br/>
+<p>
+   This is the backend of an E-commerce using technologies such as Node JS, JavaScript, Typescript, TypeORM, Express js, etc
+</p>
 
-<h3 align="left">Connect with me: </h3>
-   <a href="www.linkedin.com/in/juan-antonio-martínez-fernández-486495367" target="_blank" rel="noreferrer">LinkedIn</a>
+
+<h3 align="left">Connect with me: </h3><br/>
+   <a href="www.linkedin.com/in/juan-antonio-martínez-fernández-486495367" target="_blank" rel="noreferrer">LinkedIn</a><br/>
    <a href="mailto:jumartinezfer95@gmail.com">jumartinezfer95@gmail.com</a>
 
 
-<p align="center">Languages and Tools:</p>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=git,css,discord,postgres,express,figma,firebase,github,html&perline=9" />
 </p>
