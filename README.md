@@ -11,10 +11,9 @@
 </div>
 <h2 align="center">featured projects <h2/>
 
-<p align="left">
+
 <h2 align="left">Connect with me:</h2>
    <a href="www.linkedin.com/in/juan-antonio-martínez-fernández-486495367" target="_blank" rel="noreferrer">LinkedIn</a>
-</p>
 
 
 <p align="left">
@@ -28,7 +27,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,linux,md,mongodb,mysql,nextjs,nodejs,postman,react,tailwind,ts,vscode,kubernetes&perline=13" />
+    <img src="https://skillicons.dev/icons?i=js,linux,md,mongodb,mysql,nextjs,nodejs,postman,react,tailwind,ts,vscode&perline=12" />
   </a>
 </p>
 
@@ -38,6 +37,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jumartinezfer&show_icons=true&locale=en&layout=compact" alt="jumartinezfer" />
 </p>
 
+<br/>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jumartinezfer&label=Profile%20views&color=0e75b6&style=flat" alt="jumartinezfer" />
 </p>
